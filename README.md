@@ -23,7 +23,11 @@ A **Flutter UI project** showcasing a clean and modern e-commerce app design. Th
 ## Video
 
 
-https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/video.mp4
+
+https://github.com/user-attachments/assets/d88b7b1f-f219-4b82-84c4-21ab74261b83
+
+
+
 
 ---
 ## Screenshots
@@ -50,5 +54,5 @@ https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/video.mp4
 ## 🚀 Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/0-Hossam-0/nectar-flutter.git
-   cd nectar-flutter
+   git clone https://github.com/0-Hossam-0/Nectar-Flutter.git
+   cd Nectar-Flutter
