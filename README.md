@@ -4,10 +4,6 @@
 
 A **Flutter UI project** showcasing a clean and modern e-commerce app design. This is a **frontend-only implementation** with mock data, focusing on UI/UX best practices, animations, and responsive layouts.
 
-<p align="center">
-  <img src="assets/screenshots/home_demo.png" width="300" alt="Home Screen">
-  *(Add your screenshots/GIF here)*
-</p>
 
 ---
 
@@ -24,7 +20,25 @@ A **Flutter UI project** showcasing a clean and modern e-commerce app design. Th
 - **Flutter** (Dart) - Frontend framework
 - **Cubit** - State management for UI interactions
 ---
-## Screenshots 
+## Video
+https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/video.mp4
+---
+## Screenshots
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/splash.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/boarding.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/login.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/register.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/home.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/home2.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/home3.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/product.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/category_list.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/category_products.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/checkout.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/error_message.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/filter.png?raw=true)
+![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/profile.png?raw=true)
+
 ---
 
 ## 🚀 Installation
