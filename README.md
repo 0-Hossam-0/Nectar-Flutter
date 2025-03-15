@@ -20,14 +20,12 @@ A **Flutter UI project** showcasing a clean and modern e-commerce app design. Th
 - **Flutter** (Dart) - Frontend framework
 - **Cubit** - State management for UI interactions
 ---
+### Figma UI Link: https://www.figma.com/design/FXz2VvXwMwA4jCTcL6fzht/Online-Groceries-App-UI-(Community)?node-id=1-2&p=f&t=xlAIsrkqNIWe3E8u-0
+
+---
 ## Video
 
-
-
 https://github.com/user-attachments/assets/d88b7b1f-f219-4b82-84c4-21ab74261b83
-
-
-
 
 ---
 ## Screenshots
