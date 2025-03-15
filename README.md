@@ -21,23 +21,29 @@ A **Flutter UI project** showcasing a clean and modern e-commerce app design. Th
 - **Cubit** - State management for UI interactions
 ---
 ## Video
+
+
 https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/video.mp4
+
 ---
 ## Screenshots
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/splash.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/boarding.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/login.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/register.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/home.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/home2.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/home3.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/product.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/category_list.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/category_products.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/checkout.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/error_message.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/filter.png?raw=true)
-![Nectar Image](https://github.com/0-Hossam-0/nectar-flutter/blob/main/screenshots/profile.png?raw=true)
+<p align="center">
+  <img src="screenshots/splash.png" width="300" >
+  <img src="screenshots/boarding.png" width="300" >
+  <img src="screenshots/login.png" width="300" >
+  <img src="screenshots/register.png" width="300" >
+  <img src="screenshots/home.png" width="300" >
+  <img src="screenshots/home2.png" width="300" >
+  <img src="screenshots/home3.png" width="300" >
+  <img src="screenshots/product.png" width="300" >
+  <img src="screenshots/category_list.png" width="300" >
+  <img src="screenshots/category_products.png" width="300" >
+  <img src="screenshots/checkout.png" width="300" >
+  <img src="screenshots/error_message.png" width="300" >
+  <img src="screenshots/filter.png" width="300" >
+  <img src="screenshots/profile.png" width="300" >
+</p>
+
 
 ---
 
